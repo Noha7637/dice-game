@@ -1,8 +1,5 @@
-Here is a **professional README.md** for this second project (the **Pig Dice Game**). You can paste this directly into your GitHub repository.
 
----
-
-# 🎲 Pig Dice Game
+# 🎲 Dice Game
 
 A **two-player dice game** built with **HTML, CSS, and JavaScript** where players compete to reach **100 points first**. Players roll a dice, accumulate points, and decide whether to **hold** their score or risk losing it.
 
